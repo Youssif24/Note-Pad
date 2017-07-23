@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="Button_Add">Add Note</string>
+    <string name="Title_hint">Write Title Here</string>
+    <string name="Notes_hint">Write Notes Here</string>
+    <string name="Button_Save">Save</string>
+
+    <string-array name="context_menu">
+        <item>Edit</item>
+        <item>Delete</item>
+
+
+    </string-array>
+</resources>
